@@ -20,3 +20,6 @@ https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist
 https://www.linkedin.com/learning/paths/become-a-graphic-designer
 7. CS50's Web Programming with Python and JavaScript
 https://www.edx.org/course/programming-for-the-web-with-javascript
+8. Coursera's Full-Stack Web Development with React Specialization
+9. Coursera's Python for Everybody Specialization
+10.Coursera's Google IT Automation with Python Professional Certificate
