@@ -1,5 +1,8 @@
 # 26Nov-to-31Jan-65-Days-
-
+------------------------------
+Abstract: 
+InshaAllah, My prime aim for these 65 days is to complete Bootcamp so that I could be able to develop a Responsive Website, first in React+NodeJS+MongoDB and 2nd in React+Python+MySql. After learning React I will start learning React Native for Mobile App Development. Then I will complete my below mentioend Projects both Web Apps and Mobile Apps. By the end of January, InshaAllah, I will have to submit Bootcamp Projects both in Web and Mobile App form.  Besides of this, InshaaAllah, I will complete Freelancing Skills (Graphic Design, Digital Marketing, ECommerce Management, SEO, Copywriting, Video Making/Editing) in a slow pace during the office time. 
+-------------------------------
 # Target
 # 1. Web Development : Bootcamp (Web : React Native + Node JS + MongoDB & Pthong + MySql)
 # 2. App Development
