@@ -56,6 +56,8 @@ https://www.coursera.org/professional-certificates/applied-artifical-intelligenc
 https://www.edx.org/course/machine-learning-with-python-a-practical-introduct
 17. CS50's Introduction to Artificial Intelligence with Python
 https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
+18. Professional Certificate in Introduction to Python Programming
+https://www.edx.org/professional-certificate/introduction-to-python-programming
 ---------------------------------------------------------------------
 # Projects: 
 i.   Web & Mobile : Bookmark/My Notes Manager.
