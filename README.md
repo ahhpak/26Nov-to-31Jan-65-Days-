@@ -1,8 +1,10 @@
-# 26Nov-to-31Jan-65-Days-
+# 26 Nov-to-31Jan-65-Days-
 ------------------------------
+
+# InshaAllah, from 27th March 2021 I will start Freelancing in Web & Mobile App Development, Digital Marketing, Video Editing, E-Commerce Management, Social Media Management and Graphic Designing.  After achieving this goal, I will start Learning AI and IOT till the end of 2021.
+
 Abstract: 
-# InshaAllah, My prime aim for these 65 days is to complete Bootcamp (The job title, which may describe these developers, is:
-# Modern Full Stack Serverless Multi-Tenant SaaS App and API Developer) so that I could be able to develop a Responsive Website, first in React+NodeJS+MongoDB and 2nd in React+Python+MySql. After learning React I will start learning React Native for Mobile App Development. Then I will complete my below mentioend Projects both Web Apps and Mobile Apps. By the end of January, InshaAllah, I will have to submit Bootcamp Projects both in Web and Mobile App form.  Besides of this, InshaaAllah, I will complete Freelancing Skills (Graphic Design, Digital Marketing, ECommerce Management, SEO, Copywriting, Video Making/Editing) in a slow pace during the office time. 
+InshaAllah, My prime aim for these 65 days is to complete Bootcamp (The job title, which may describe these developers, is Modern Full Stack Serverless Multi-Tenant SaaS App and API Developer) so that I could be able to develop a Responsive Website, first in React+NodeJS+MongoDB and 2nd in React+Python+MySql. After learning React I will start learning React Native for Mobile App Development. Then I will complete my below mentioend Projects both Web Apps and Mobile Apps. By the end of January, InshaAllah, I will have to submit Bootcamp Projects both in Web and Mobile App form.  Besides of this, InshaaAllah, I will complete Freelancing Skills (Graphic Design, Digital Marketing, ECommerce Management, SEO, Copywriting, Video Making/Editing) in a slow pace during the office time. 
 
 Start watching both 1st watch urdu and after 1 week start English for revision . In this way you will understand all videos + revision + all the tips n techniques by all the developers . But before 1st project better make your concept clear for new es6 concepts like let cons keywords fat arrows function and state specially usestate hook and context API . I will recommend youtube channel thapa technical es6 1-14 videos + codeevolution react videos . Dont do hurry . If your pillars will be strong no one can beat you . Keep in mind when train leave station it starts slowly .
 Zia Khan says: 
@@ -20,6 +22,7 @@ The video presentation may be recorded using the PC webcam or mobile camera and 
 # 4. Python
 # 5. Cloud Computing
 # 5. Weight Loss
+# 6. Introduction of AI, Machine Learning, IOT, AWS, Google Cloud, Data Science
 
 -------------------------------------------------------------------------------
 # Tasks
@@ -43,6 +46,12 @@ https://www.edx.org/course/programming-for-the-web-with-javascript
 12. Coursera's Build Your First React Website - 2 parts
 https://www.coursera.org/projects/build-first-react-website
 https://www.coursera.org/projects/build-first-react-website-2
+13. Coursera's Python for Data Science and AI
+https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-artifical-intelligence-ibm-watson-ai
+14. Data Science Fundamentals with Python and SQL Specialization
+https://www.coursera.org/specializations/data-science-fundamentals-python-sql
+15. Coursea's IBM Applied AI Professional Certificate
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#courses
 
 ---------------------------------------------------------------------
 # Projects: 
@@ -51,6 +60,7 @@ ii.  Web & Mobile : Administration Office MIS
 iii. Web : Administration HR System.
 iv.  Web: My Portal.
 v.   Web & Mobile:Facial Recognition Attendance System.
+vi.  Website for my Charity Organization. 
 
 #IMPORTANT LINKS: 
 
