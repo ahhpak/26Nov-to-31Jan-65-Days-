@@ -52,7 +52,10 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization
 https://www.coursera.org/specializations/data-science-fundamentals-python-sql
 15. Coursea's IBM Applied AI Professional Certificate
 https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#courses
-
+16. Machine Learning with Python: A Practical Introduction
+https://www.edx.org/course/machine-learning-with-python-a-practical-introduct
+17. CS50's Introduction to Artificial Intelligence with Python
+https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 ---------------------------------------------------------------------
 # Projects: 
 i.   Web & Mobile : Bookmark/My Notes Manager.
