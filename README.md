@@ -1,9 +1,10 @@
 # 26 Nov-to-31Jan-65-Days-
 ------------------------------
 
-# InshaAllah, from 27th March 2021 I will start Freelancing in Web & Mobile App Development, Digital Marketing, Video Editing, E-Commerce Management, Social Media Management and Graphic Designing.  After achieving this goal, I will start Learning AI and IOT till the end of 2021.
+# InshaAllah, from 27th March 2021 I will start Freelancing in Web & Mobile App Development, Digital Marketing, Video Editing, E-Commerce Management, Social Media Management, wordpress development and Graphic Designing.  After achieving this goal, I will start Learning AI and IOT till the end of 2021.
 
 Abstract: 
+
 InshaAllah, My prime aim for these 65 days is to complete Bootcamp (The job title, which may describe these developers, is Modern Full Stack Serverless Multi-Tenant SaaS App and API Developer) so that I could be able to develop a Responsive Website, first in React+NodeJS+MongoDB and 2nd in React+Python+MySql. After learning React I will start learning React Native for Mobile App Development. Then I will complete my below mentioend Projects both Web Apps and Mobile Apps. By the end of January, InshaAllah, I will have to submit Bootcamp Projects both in Web and Mobile App form.  Besides of this, InshaaAllah, I will complete Freelancing Skills (Graphic Design, Digital Marketing, ECommerce Management, SEO, Copywriting, Video Making/Editing) in a slow pace during the office time. 
 
 Start watching both 1st watch urdu and after 1 week start English for revision . In this way you will understand all videos + revision + all the tips n techniques by all the developers . But before 1st project better make your concept clear for new es6 concepts like let cons keywords fat arrows function and state specially usestate hook and context API . I will recommend youtube channel thapa technical es6 1-14 videos + codeevolution react videos . Dont do hurry . If your pillars will be strong no one can beat you . Keep in mind when train leave station it starts slowly .
