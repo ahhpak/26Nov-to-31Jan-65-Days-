@@ -17,7 +17,7 @@ The video presentation may be recorded using the PC webcam or mobile camera and 
 
 -------------------------------
 # Target
-# 1. Web Development : Bootcamp (Web : React Native + Node JS + MongoDB & Pthong + MySql)
+# 1. Web Development : Bootcamp (Web : React+Pthon+MySql & MongoDB & SqlLite)
 # 2. App Development
 # 3. Freelancing (Graphic Design, Digital Marketing, ECommerce Management, SEO, Copywriting, Video Making/Editing)
 # 4. Python
@@ -61,6 +61,7 @@ https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-py
 https://www.edx.org/professional-certificate/introduction-to-python-programming
 ---------------------------------------------------------------------
 # Projects: 
+A.   Administration Portal and Personal Bookmark Manager using Wordpress
 i.   Web & Mobile : Bookmark/My Notes Manager.
 ii.  Web & Mobile : Administration Office MIS
 iii. Web : Administration HR System.
