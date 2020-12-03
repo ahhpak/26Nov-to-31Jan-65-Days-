@@ -83,4 +83,9 @@ https://www.simplilearn.com/react-native-tutorial-article
 The objective of this exercise is to improve the presentation and research skills of the Bootcamp 2020 participants and showcase their talent and introduce them to the developer community all over Pakistan.
 The video presentation may be recorded using the PC webcam or mobile camera and may or may not include slides, and can be of any duration. The presenter has the option of using either Urdu or English to make this presentation. They can also submit two presentations in both the languages.
 
+					
+					
+					
+					
+
 
